@@ -1,0 +1,27 @@
+{margin: 0;
+padding:0;
+}
+
+.cabecalho{
+background-color: #fc56a3;
+color: white;
+display:flex;
+justify-content: space-around;
+align-items: center;
+padding: 24px 0;
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.escola{
+    background-image: linear-gradient(#fc56a3, #4EBFE9);
+    color:white;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
